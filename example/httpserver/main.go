@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/anthhub/forwarder"
+	"github.com/bfosberry/forwarder"
 	"github.com/gin-gonic/gin"
 
 	"github.com/namsral/flag"
